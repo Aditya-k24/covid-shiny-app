@@ -9,7 +9,7 @@ Users can:
 
 ## 📸 Screenshot
 
-![COVID-19 Shiny Dashboard](./Screenshot_2025-04-15_at_7.18.09_PM.png)
+![COVID-19 Shiny Dashboard](./Screenshot.png)
 
 ---
 
